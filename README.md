@@ -33,7 +33,7 @@
    
 
 ## Acknowledgements
-This project was based on [this tutorial](https://www.udemy.com/course/the-complete-javascript-course/).
+This project was based on [this tutorial](https://www.udemy.com/course/advanced-css-and-sass).
 
 
 ## Contact
